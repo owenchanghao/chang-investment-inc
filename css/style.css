@@ -1,0 +1,32 @@
+/* Google Fonts */
+@import url("https://fonts.googleapis.com/css2?family=Roboto");
+
+/* Import Container */
+@import url("components/container.css");
+
+/* Import Avatar */
+@import url("components/avatar.css");
+
+/* Import Button */
+@import url("components/button.css");
+
+/* Import Banner */
+@import url("components/banner.css");
+
+/* Import Card */
+@import url("components/card.css");
+
+body {
+	font-family: 'Roboto', sans-serif;
+	font-size: 18px;
+	margin: 5px;
+}
+
+h1, h2, h3 {
+	font-family: 'Roboto', sans-serif;
+	font-weight: bold;
+}
+
+a {
+	text-decoration: none;
+}
